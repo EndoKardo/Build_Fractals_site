@@ -1,0 +1,11 @@
+src package
+===========
+
+Subpackages
+___________
+
+
+.. toctree::
+   :maxdepth: 4
+
+   src.module

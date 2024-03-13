@@ -1,0 +1,58 @@
+Submodules
+__________
+
+src.fractal\_module.chat\_bot module
+____________________________________
+
+.. automodule:: src.fractal_module.chat_bot
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.communication\_with\_developers module
+__________________________________________________________
+
+.. automodule:: src.fractal_module.communication_with_developers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.data\_and\_cloud module
+___________________________________________
+
+.. automodule:: src.fractal_module.data_and_cloud
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.fractals module
+___________________________________
+
+.. automodule:: src.fractal_module.fractals
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.social\_interaction module
+______________________________________________
+
+.. automodule:: src.fractal_module.social_interaction
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.time\_tracking\_now module
+______________________________________________
+
+.. automodule:: src.fractal_module.time_tracking_now
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.time\_tracking\_time\_work module
+_____________________________________________________
+
+.. automodule:: src.fractal_module.time_tracking_time_work
+   :members:
+   :undoc-members:
+   :show-inheritance:
